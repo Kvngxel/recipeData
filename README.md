@@ -1,5 +1,7 @@
 # recipeData
 
+Figma design - https://www.figma.com/file/KMxbtpPDohI7FmYg3oQqFZ/Tailwindcss-Recipe-project?type=design&node-id=0%3A1&mode=design&t=BNX6toU0DCKxZ66L-1
+
 Web app that that displays recipes for Nigerian foods
 
 Clone the Repository: Begin by cloning the repository to your local machine. You can do this by opening a command prompt or terminal and running the command git clone https://github.com/Kvngxel/recipeData.git. Then, navigate to the repository folder using the cd command.
