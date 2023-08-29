@@ -2,7 +2,7 @@ import React from "react";
 
 function Recipe (props){
     return <div>
-      <div className="container mx-auto bg-gray-200 shadow border px-10 py-8 m-10 flex">
+      <div className="container mx-auto bg-gray-100 shadow border px-10 py-8 m-10 flex">
         <div className="scale-100">
           <img className="w-30 p-4" src={props.recipeImage} />
         </div>
